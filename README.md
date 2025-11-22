@@ -24,7 +24,7 @@
 
 ---
 
-# 🛠️ Tech Stack (Animated Icons)
+# 🛠️ Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,python,html,css,mongodb,firebase,git,github,vscode&theme=dark&perline=7" />
@@ -32,7 +32,7 @@
 
 ---
 
-# 🚀 Featured Projects (Flashy Cards)
+# 🚀 Featured Projects 
 
 ## 🔥 AYOMIKUN MD  
 A powerful multi-bot automation engine designed for speed, intelligence & utilities.  
@@ -64,7 +64,7 @@ High-performance Telegram automation bot with advanced features.
 
 ---
 
-# 📊 GitHub Power Stats (Full Flash Mode)
+# 📊 GitHub Power Stats
 
 <div align="center">
 
