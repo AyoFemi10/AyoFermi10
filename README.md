@@ -1,15 +1,15 @@
-<!-- ✨ ULTRA FLASHY + ADVANCED ANIMATED GITHUB PROFILE FOR AyoFemi10 ✨ -->
+<!-- ✨ ULTRA TECHY GITHUB PROFILE FOR AyoFemi10 ✨ -->
 
 <!-- 🔥 Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hey+I'm+Ayo+Femi+(AyoFemi10)!;Developer+%7C+Bot+Creator+%7C+Automation+Engineer;Welcome+To+My+Flashy+GitHub+Profile+%F0%9F%92%A5%F0%9F%9A%80">
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hey+I'm+Ayo+Femi+(AyoFemi10)!;Developer+%7C+Bot+Creator+%7C+Automation+Engineer;Welcome+To+My+GitHub+Profile+%F0%9F%94%8C">
 </p>
 
 ---
 
-<!-- 🌌 Cyber Banner -->
+<!-- 🌌 NEW TECHY BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/zJvZ9yT.gif" width="900" />
+  <img src="/mnt/data/A_digital_graphic_design_banner_introduces_Ayo_Fem.png" width="900"/>
 </p>
 
 ---
@@ -36,35 +36,35 @@
 
 ## 🔥 AYOMIKUN MD  
 A powerful multi-bot automation engine designed for speed, intelligence & utilities.  
-👉 **Link:** *(Add repo link)*
+👉 **Link:** *(https://github.com/AyoFemi10/AYOMIKUN-MD1)*
 
 <p align="center">
-  <img src="https://i.imgur.com/CEhZCwT.gif" width="600"/>
+  <img src="https://ibb.co/FLFvLK8H" width="600"/>
 </p>
 
 ---
 
 ## 🔥 AYOMIKUN PAIR  
 Smart pairing automation system for efficient user operations.  
-👉 **Link:** *(Add repo link)*
+👉 **Link:** *(https://github.com/AyoFemi10/ayomikun-pair)*
 
 <p align="center">
-  <img src="https://i.imgur.com/Nu8BKPb.gif" width="600"/>
+  <img src="https://ibb.co/FLFvLK8H" width="600"/>
 </p>
 
 ---
 
 ## 🔥 AYOMIKUN TG  
 High-performance Telegram automation bot with advanced features.  
-👉 **Link:** *(Add repo link)*
+👉 **Link:** *(https://github.com/AyoFemi10/AYOMIKUN-TG)*
 
 <p align="center">
-  <img src="https://i.imgur.com/p65YqXK.gif" width="600"/>
+  <img src="https://ibb.co/FLFvLK8H" width="600"/>
 </p>
 
 ---
 
-# 📊 GitHub Power Stats
+# 📊 GitHub Power Stats (Dark Cyber Theme)
 
 <div align="center">
 
@@ -86,7 +86,7 @@ High-performance Telegram automation bot with advanced features.
 
 ---
 
-# 🐍 Cyber Snake Animation  
+# 🐍 Cyber Snake   
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
@@ -100,7 +100,7 @@ High-performance Telegram automation bot with advanced features.
 
 ---
 
-# 🔮 Glowing Badges
+# 🔮 Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Developer-00FFFF?style=for-the-badge&logo=github&logoColor=black" />
@@ -117,10 +117,6 @@ High-performance Telegram automation bot with advanced features.
 ---
 
 # ✨ Final Message
-
-<p align="center">
-  <img src="https://i.imgur.com/Ht6bXQk.gif" width="600"/>
-</p>
 
 <p align="center">
   <b><i>“Build boldly. Automate everything. The future is coded by you.”</i></b>
