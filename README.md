@@ -9,7 +9,7 @@
 
 <!-- 🌌 NEW TECHY BANNER -->
 <p align="center">
-  <img src="https://i.ibb.co/4nHyn741/AYOMIKUN-MD-Photo-Grid.png"width="900"/>
+  <img src="https://i.ibb.co/4nHyn741/AYOMIKUN-MD-Photo-Grid.png"/>
 </p>
 
 ---
@@ -39,7 +39,7 @@ A powerful multi-bot automation engine designed for speed, intelligence & utilit
 👉 **Link:** *(https://github.com/AyoFemi10/AYOMIKUN-MD1)*
 
 <p align="center">
-  <img src="https://i.ibb.co/4nHyn741/AYOMIKUN-MD-Photo-Grid.png"width="600"/>
+  <img src="https://i.ibb.co/4nHyn741/AYOMIKUN-MD-Photo-Grid.png"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@ Smart pairing automation system for efficient user operations.
 👉 **Link:** *(https://github.com/AyoFemi10/ayomikun-pair)*
 
 <p align="center">
-  <img src="https://i.ibb.co/4nHyn741/AYOMIKUN-MD-Photo-Grid.png"width="600"/>
+  <img src="https://i.ibb.co/4nHyn741/AYOMIKUN-MD-Photo-Grid.png"/>
 </p>
 
 ---
@@ -59,7 +59,7 @@ High-performance Telegram automation bot with advanced features.
 👉 **Link:** *(https://github.com/AyoFemi10/AYOMIKUN-TG)*
 
 <p align="center">
-  <img src="https://i.ibb.co/4nHyn741/AYOMIKUN-MD-Photo-Grid.png"width="600"/>
+  <img src="https://i.ibb.co/4nHyn741/AYOMIKUN-MD-Photo-Grid.png"/>
 </p>
 
 ---
